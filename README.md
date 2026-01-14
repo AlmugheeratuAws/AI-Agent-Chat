@@ -5,6 +5,8 @@ AI Library Desk Agent with tools and database
 AI-powered chat agent for library operations using tools and a database.
 
 ## Run
-pip install -r requirements.txt
-python app/seed.py
-uvicorn server.main:app --reload
+pip install -r requirements.txt\n
+python app/seed.py\n
+uvicorn server.main:app --reload\n
+http://localhost:8000/chat-ui
+
