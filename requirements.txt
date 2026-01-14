@@ -1,1 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy
+langchain
+langchain-community
+pydantic
+python-dotenv
 
