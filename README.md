@@ -8,5 +8,5 @@ AI-powered chat agent for library operations using tools and a database.
 pip install -r requirements.txt
 python app/seed.py
 uvicorn server.main:app --reload
-## http://localhost:8000/chat-ui
+# http://localhost:8000/chat-ui
 
